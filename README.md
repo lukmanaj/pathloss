@@ -1,4 +1,4 @@
-# Rough Guide
+# Rough Guide to Implementation
 
 - Model Development and Comparison:
 
