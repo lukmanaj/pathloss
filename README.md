@@ -2,7 +2,7 @@
 
 - Model Development and Comparison:
 
-Objective: Develop predictive models for path loss using machine learning or deep learning algorithms. Compare traditional path loss models (like Hata-Okumura, COST231, etc.) with your machine learning models to evaluate improvements in prediction accuracy.
+Objective: Develop predictive models for path loss using machine learning or deep learning algorithms. Compare traditional path loss models (like Hata-Okumura, COST231, etc.) with your machine learning models to evaluate improvements in prediction accuracy. 
 Contribution: This could show how advanced data-driven techniques can outperform traditional models in certain environments or under specific conditions.
 
 - Environment-Specific Modeling:
